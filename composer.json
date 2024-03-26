@@ -1,0 +1,20 @@
+{
+  "name": "biggy905/sdek-php",
+  "description": "Sdek for php",
+  "keywords": ["sdek", "sdek for php"],
+  "support": {
+    "issues": "https://github.com/Biggy905/sdek-php/issues?state=open",
+    "source": "https://github.com/Biggy905/sdek-php"
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=8.2",
+    "symfony/http-client": "^7"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
